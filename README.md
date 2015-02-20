@@ -21,7 +21,7 @@ Look the gem up on rubygems, and find its documentation. Come up with an idea th
 - How many `<div>` objects are there?
 - Can you find the `<div>` object with `id=“content”`?
 
-#### Resources
+### Resources
 
 #### Using Gems
 - [Using Gems in Ruby](http://code.tutsplus.com/articles/ruby-for-newbies-working-with-gems--net-18977)
