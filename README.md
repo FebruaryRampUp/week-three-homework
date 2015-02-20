@@ -1,4 +1,11 @@
-### Part One:
+#### Week Three Homework 
+
+If you're interested in getting direct feedback on the code you write/submit - feel free to tag us in your pull request in the comments section (@case-eee and @bangner).
+
+Also, don't forget about our slack channel - ramp-up-chicago.slack.com.
+
+
+#### Part One:
 
 For the following gems:
 
@@ -20,7 +27,7 @@ Look the gem up on rubygems, and find its documentation. Come up with an idea th
 - How many `<div>` objects are there?
 - Can you find the `<div>` object with `id=“content”`?
 
-### Resources
+#### Resources
 
 #### Using Gems
 - [Using Gems in Ruby](http://code.tutsplus.com/articles/ruby-for-newbies-working-with-gems--net-18977)
