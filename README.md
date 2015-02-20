@@ -17,12 +17,6 @@ For the following gems:
 Look the gem up on rubygems, and find its documentation. Come up with an idea that you could use this gem (perhaps in conjunction with others) to execute on. When coming up with your ideas, remember that one of the greatest strengths of programming when it comes to solving problems is its ability to follow sets of instructions, depending on what its inputs are. For example, I could use the `twitter` gem to periodically pull down the most popular tweets from people in the technology / start-up space that I’m interested in learning from.
 
 ### Part Two:
-- Create a class named `Person`.
-- What methods (specific actions or behaviors) would a `Person` object have?
-- Create a class named `RampUpStudent` that inherits from `Person`.
-- What different methods would a `RampUpStudent` have compared to a `Person`?
-- Create a class named `RampUpTeachingInstructor` that inherits from `Person`.
-- What different methods would a `RampUpInstructor` have as compared to a `RampUpStudent` or a `Person`?
 - Using the `nokogiri` gem, figure out how to use Ruby to download the Startup Institute Rampup page.
 - How many `<div>` objects are there?
 - Can you find the `<div>` object with `id=“content”`?
