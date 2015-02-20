@@ -27,11 +27,6 @@ Look the gem up on rubygems, and find its documentation. Come up with an idea th
 - [Using Gems in Ruby](http://code.tutsplus.com/articles/ruby-for-newbies-working-with-gems--net-18977)
 - [How to use, install, and require a Gem in Ruby](http://stackoverflow.com/questions/10417574/how-to-install-require-and-use-a-gem-in-ruby)
 
-#### Classes
-- [Ruby Monk - Classes](http://rubymonk.com/learning/books/1-ruby-primer/chapters/7-classes/lessons/39-classes)
-- [Ruby Explained - Classes](http://www.eriktrautman.com/posts/ruby-explained-classes)
-- [Writing your own class - Ruby](http://rubylearning.com/satishtalim/writing_our_own_class_in_ruby.html)
-
 #### Nokogiri
 - [Parsing HTML with Nokogiri](http://ruby.bastardsbook.com/chapters/html-parsing/)
 - [Getting Started with Nokogiri](https://blog.engineyard.com/2010/getting-started-with-nokogiri)
