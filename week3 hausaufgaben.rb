@@ -24,7 +24,7 @@ divs3 = page3.css('div')
  	puts "There is no <div> on this page with the id of 'content'"
  	puts ""
  else
- 	puts "Here is a <div> with the id 'conent' on this page:"
+ 	puts "Here is a <div> with the id 'content' on this page:"
  	puts ""
  	puts"#{divcontent1}"
 end 
@@ -36,7 +36,7 @@ end
  	puts "There is no <div> on this page with the id of 'content'"
  	puts ""
  else
- 	puts "Here is a <div> with the id 'conent' on this page: "
+ 	puts "Here is a <div> with the id 'content' on this page: "
  	puts ""
  	puts"#{divcontent2}"
 end 
@@ -47,7 +47,7 @@ end
  if divcontent3.any? == false
  	puts "There is no <div> on on this page with the id of 'content'"
  else
- 	puts "Here is a <div> with the id 'conent' on this page: "
+ 	puts "Here is a <div> with the id 'content' on this page: "
  	puts""
  	puts"#{divcontent3[0]}"
 end 
