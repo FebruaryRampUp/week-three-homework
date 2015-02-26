@@ -1,0 +1,19 @@
+Part 1
+1. Rails
+	Rails automates many of the frequently used tasks when creating a web app.
+	The framework uses the model-view-controller (MVC) pattern
+		With this, I could create a website with appropriate login authentication and web site presentation more quickly than I could if I had to rewrite all the reused code everytime I made an app.
+
+2. Nokogiri
+	Nokogiri pulls HTML/XML documents and allows for it to be searched, modified, and parsed. (quickly extract data from raw html files)
+		With nokogiri, I could pull an html page off the internet, search it, change it, parse it, all much more quickly than I could do if I was trying to do those things myself.  I could grab pages from the internet, store them, track changes, or steal the format and customize it for my own uses.
+3. facebook
+	OmniAuth facebook is an app taht lets users authenticate through facebook to your app and then lets them control what they share.
+		I could use this to do anything that requires a secure login since the security facebook puts on their accounts is vastly stronger than anything I'd come up with.  I could use it to build a social network of bird lovers with unique and verifiable identifications.  Or perhaps a team of competitive jump ropers who fear infiltration from rival jump teams. 
+4. twitter
+	Allows you to use the public twittersphere as a big pile of data to parse and manipulate as you wish. 
+		I could grab random examples of my friends terrible tweets and store them somewhere their parents would find them and be embarassed.  Or I could search for tweets on a topic I'm interested in (Ruby, of course), or see what's trending, or set something up to notify me when a topic is mentioned, or mentioned above it's normal threshold.
+
+Part 2
+nokogiri http://www.startupinstitute.com/rampup/ on command line stores it in @doc, then I cut and pasted into sublime, did a search from there and found 24. Looking at it now, I'm replicating the program beth did it with.
+
