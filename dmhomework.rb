@@ -2,7 +2,13 @@ require 'rubygems'
 require 'nokogiri'
 require 'open-uri'
 
-html_doc = Nokogiri::HTML(open("http://butt.holdings"))
+#page = "http://butt.holdings"
+page = "http://www.startupinstitute.com"
 
-puts html_doc
+html_doc = Nokogiri::HTML(open(page))
 
+#puts html_doc
+
+div_object = html_doc.css("div")
+
+puts "There are #{div_object.count} in #{page}"
