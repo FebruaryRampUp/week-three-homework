@@ -1,0 +1,19 @@
+rails
+
+Rails provides a framework/engine for building web applications. It'd be useful for making a website that does more than HTML+CSS.
+
+Twitter started that way.
+Surprisr is going to start that way :D
+
+nokogiri
+Nokogiri lets one parse HTML and pull things out of that
+
+
+facebook
+The facebook oauth api looks like it could be used to implement Facebook logins on one's site.
+
+This would be useful 
+
+twitter
+
+Reading tweets with various parameters
